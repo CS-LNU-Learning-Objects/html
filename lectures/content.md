@@ -1,33 +1,30 @@
 ## Content
-- CSS, Cascading Style Sheets
-- How to add (inline, internal, external)
-- Syntax (declaration, properties, values)
-- Selectors
-- Specificity, inheritance
-- Basic layout
-- Frameworks and preprocessors
-
+- The web as a platform
+- A brief look on protocols
+- Markup languages from HTML to HTML5
+- A HTML-document
+- elements, tags, attributes (names and values)
+- structure
+- entities
+- charcodes
+- comments
+- graphic vs. logical formatting
+- overview of tags
+- Forms
 
 ## Self studies
-In this lecture there is no time to go through each and every selector or property in CSS. Make sure to make yourself familiar with the most common ones including, but not limited to:
+In this lecture there is no time to go through each and every tag and their attributes in HTML. Make sure to make yourself familiar with the most common ones including, but not limited to:
+- a, img, h1-h6, p, ul, ol, li, table
+- span, div, data, article, aside, header, footer, main, section
+- form, button, input, label, select textarea
 
-Properties:
-- background-..., border-..., clear, color, float, font-..., margin-..., max-..., min-..., overflow, padding-..., position, text-..., width, z-index
-
-Selectors:
-- Type selectors
-- Class selectors
-- ID selectors
-- Attribute selectors
-- Combinators (A + B, A ~ B, A > B, A B)
-- Pseudo-element (::after, ::before...)
-- Pseudo-classes (:active, :checked, :disabled, :first....)
-
-
-See [MDN, CSS  reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+See [MDN, HTML Element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## Resources
 
 ### MDN
-- [CSS](whttps://developer.mozilla.org/en-US/docs/Web/CSS)
-- [CSS Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
+
+- [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [Obsolete practices to avoid](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Obsolete_things_to_avoid)
+- [Block level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
