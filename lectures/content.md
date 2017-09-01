@@ -23,6 +23,7 @@ See [MDN, HTML Element reference](https://developer.mozilla.org/en-US/docs/Web/H
 
 ## Resources
 - [HTML-presentation](https://rawgit.com/CS-LNU-Learning-Objects/html/master/lectures/01/index.html)
+- [Recording](https://youtu.be/N0cTqgULmg4) 2017-09-30, 10:15-12:00 (Youtube)
 - [Recording](https://youtu.be/Ycm8Vz5CyPg) 2016-09-31, 13:15-15:00 (Youtube)
 
 
